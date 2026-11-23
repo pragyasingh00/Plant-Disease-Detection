@@ -1,0 +1,19 @@
+CNN MODEL EVALUATION
+
+Test Accuracy: 68.89%
+
+                       precision    recall  f1-score   support
+
+Pepper_Bacterial_Spot       0.50      0.60      0.55        15
+       Pepper_Healthy       0.65      0.73      0.69        15
+  Potato_Early_Blight       0.75      1.00      0.86        15
+       Potato_Healthy       0.74      0.93      0.82        15
+   Potato_Late_Blight       0.43      0.40      0.41        15
+Tomato_Bacterial_Spot       1.00      0.40      0.57        15
+  Tomato_Early_Blight       0.75      0.60      0.67        15
+       Tomato_Healthy       0.75      1.00      0.86        15
+   Tomato_Late_Blight       0.89      0.53      0.67        15
+
+             accuracy                           0.69       135
+            macro avg       0.72      0.69      0.68       135
+         weighted avg       0.72      0.69      0.68       135

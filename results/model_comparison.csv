@@ -1,0 +1,3 @@
+Model,Test Accuracy (%),Macro Precision,Macro Recall,Macro F1-Score,Total Parameters
+Custom CNN,68.89,0.72,0.69,0.68,13236041
+MobileNetV2,94.81,0.95,0.95,0.95,2269513

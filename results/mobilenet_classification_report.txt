@@ -1,0 +1,19 @@
+MOBILENETV2 MODEL EVALUATION
+
+Test Accuracy: 94.81%
+
+                       precision    recall  f1-score   support
+
+Pepper_Bacterial_Spot       1.00      1.00      1.00        15
+       Pepper_Healthy       1.00      1.00      1.00        15
+  Potato_Early_Blight       0.88      1.00      0.94        15
+       Potato_Healthy       0.88      1.00      0.94        15
+   Potato_Late_Blight       1.00      0.73      0.85        15
+Tomato_Bacterial_Spot       0.88      1.00      0.94        15
+  Tomato_Early_Blight       1.00      0.80      0.89        15
+       Tomato_Healthy       1.00      1.00      1.00        15
+   Tomato_Late_Blight       0.94      1.00      0.97        15
+
+             accuracy                           0.95       135
+            macro avg       0.95      0.95      0.95       135
+         weighted avg       0.95      0.95      0.95       135
